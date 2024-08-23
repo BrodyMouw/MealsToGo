@@ -28,7 +28,7 @@
     "react-native-safe-area-view": "^1.1.1",
     "react-native-screens": "~3.22.0",
     "react-native-svg": "13.9.0",
-    "react-native-webview": "^13.11.1",
+    "react-native-webview": "^11.0.1",
     "styled-components": "^6.1.8"
   },
   "devDependencies": {
